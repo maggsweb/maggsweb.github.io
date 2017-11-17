@@ -1,11 +1,5 @@
 ## MaggsWeb GitHub Pages
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 # MyPDO
 
 An easy-to-use PDO Database wrapper for PHP & MySQL
