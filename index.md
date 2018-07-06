@@ -1,5 +1,3 @@
-## MaggsWeb GitHub Pages
-
 # MyPDO
 
 An easy-to-use PDO Database wrapper for PHP & MySQL
