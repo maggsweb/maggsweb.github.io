@@ -2,13 +2,13 @@
 
 An easy-to-use PDO Database wrapper for PHP & MySQL
 
-[my-pdo](http://maggsweb.github.io/my-pdo)
+[maggsweb-pdo](http://maggsweb.github.io/maggsweb-pdo)
 
 # Form Validator for PHP
 
 An easy-to-use PHP Form Validation Class
 
-[MyFormValidator](https://maggsweb.github.io/MyFormValidator/)
+[maggsweb-form-validator](https://maggsweb.github.io/maggsweb-form-validator/)
 
 
 
