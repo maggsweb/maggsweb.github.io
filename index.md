@@ -1,10 +1,10 @@
-# MyPDO
+# PDO Wrapper for PHP
 
 An easy-to-use PDO Database wrapper for PHP & MySQL
 
 [my-pdo](http://maggsweb.github.io/my-pdo)
 
-# MyFormValidator
+# Form Validator for PHP
 
 An easy-to-use PHP Form Validation Class
 
