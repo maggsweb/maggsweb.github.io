@@ -2,7 +2,7 @@
 
 An easy-to-use PDO Database wrapper for PHP & MySQL
 
-[MyPDO](http://maggsweb.github.io/my-pdo)
+[my-pdo](http://maggsweb.github.io/my-pdo)
 
 # MyFormValidator
 
