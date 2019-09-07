@@ -4,7 +4,7 @@
 
 An easy-to-use PDO Database wrapper for PHP & MySQL
 
-[maggsweb-pdo](http://maggsweb.github.io/maggsweb-pdo)
+[maggsweb-pdo](http://maggsweb.github.io/maggsweb-pdo/)
 
 
 
