@@ -24,7 +24,7 @@ An easy-to-use PHP Form Validation Class
 
 Simple, automated, photo gallery
 
-[maggsweb-gallery](https://github.com/maggsweb/maggsweb-gallery/)
+[maggsweb-gallery](https://github.com/maggsweb-gallery/)
 
 
 
