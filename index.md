@@ -30,6 +30,8 @@ Simple, automated, PHP Photo Gallery
 
 # Maggsweb Calendar
 
+[![StyleCI](https://github.styleci.io/repos/216923779/shield?branch=master)](https://github.styleci.io/repos/216923779)
+
 Simple, automated, PHP Calendar script
 
 [maggsweb-calendar](https://maggsweb.github.io/maggsweb-calendar/)
