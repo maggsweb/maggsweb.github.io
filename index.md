@@ -22,11 +22,17 @@ An easy-to-use PHP Form Validation Class
 
 [![StyleCI](https://github.styleci.io/repos/169919219/shield?branch=master)](https://github.styleci.io/repos/169919219)
 
-Simple, automated, photo gallery
+Simple, automated, PHP Photo Gallery
 
 [maggsweb-gallery](https://maggsweb.github.io/maggsweb-gallery/)
 
 
+
+# Maggsweb Calendar
+
+Simple, automated, PHP Calendar script
+
+[maggsweb-calendar](https://maggsweb.github.io/maggsweb-calendar/)
 
 
 <br>
