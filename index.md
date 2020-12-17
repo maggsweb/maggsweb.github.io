@@ -1,5 +1,7 @@
 # Maggsweb ShortURL API
 
+[![StyleCI](https://github.styleci.io/repos/319776559/shield?branch=master)](https://github.styleci.io/repos/319776559?branch=master)
+
 A back-end API in Lumen 8
 
 [lumen-shorturl](http://maggsweb.github.io/lumen-shorturl/)
