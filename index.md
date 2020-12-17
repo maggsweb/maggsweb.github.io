@@ -2,7 +2,7 @@
 
 A back-end API in Lumen 8
 
-[maggsweb-pdo](http://maggsweb.github.io/lumen-shorturl/)
+[lumen-shorturl](http://maggsweb.github.io/lumen-shorturl/)
 
 
 
